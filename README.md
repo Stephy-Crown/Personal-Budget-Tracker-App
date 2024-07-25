@@ -4,5 +4,7 @@ This is a Budget Tracker application that allows users to manage their finances 
 It also includes the use of the browser's localStorage to persist transactions between page reloads. This will allow the user to close the browser and come back to find their transactions still listed.
 # Technologies:
 HTML for structure
+
 CSS Framework-TailwindCSS for styling
+
 JavaScript for interactivity
